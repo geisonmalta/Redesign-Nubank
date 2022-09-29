@@ -1,0 +1,135 @@
+// Paddings and margins
+$gap-1: 8px;
+$gap-2: 16px;
+$gap-3: 48px;
+$gap-4: 72px;
+$gap-5: 128px;
+
+.s-0{
+    margin:0;
+    padding: 0;
+}
+
+.m-1{
+    margin: $gap-1;
+}
+
+.m-2{
+    margin: $gap-2;
+}
+
+.m-3{
+    margin: $gap-3;
+}
+
+.m-4{
+    margin: $gap-4;
+}
+
+.m-5{
+    margin: $gap-5;
+}
+// Margin top 
+.mt-1{
+    margin-top: $gap-1;
+}
+
+.mt-2{
+    margin-top: $gap-2;
+}
+
+.mt-3{
+    margin-top: $gap-3;
+}
+
+.mt-4{
+    margin-top: $gap-4;
+}
+
+.mt-5{
+    margin-top: $gap-5;
+}
+// Margin bottom
+.mb-1{
+    margin-bottom: $gap-1;
+} 
+.mb-2{
+    margin-bottom: $gap-2;
+} 
+.mb-3{
+    margin-bottom: $gap-3;
+} 
+.mb-4{
+    margin-bottom: $gap-4;
+} 
+.mb-5{
+    margin-bottom: $gap-5;
+} 
+
+// Margin right 
+.mr-1{
+    margin-right: $gap-1;
+} 
+
+.mr-2{
+    margin-right: $gap-2;
+} 
+
+.mr-3{
+    margin-right: $gap-3;
+} 
+
+.mr-4{
+    margin-right: $gap-4;
+} 
+
+.mr-5{
+    margin-right: $gap-5;
+} 
+
+// Margin left 
+.ml-1{
+    margin-left: $gap-1;
+} 
+
+.ml-2{
+    margin-left: $gap-2;
+} 
+
+.ml-3{
+    margin-left: $gap-3;
+} 
+
+.ml-4{
+    margin-left: $gap-4;
+} 
+
+.ml-5{
+    margin-left: $gap-5;
+} 
+
+// Padding axle x  (spacing to the sides)
+// .mx-1{
+//     margin-left: $gap-1;
+// }
+
+// .mx-2{
+//     margin-left: $gap-2;
+// }
+
+// .mx-3{
+//     margin-left: $gap-3;
+// }
+
+// .mx-4{
+//     margin-left: $gap-4;
+// }
+
+// .mx-5{
+//     margin-left: $gap-5;
+// }
+
+
+
+
+
