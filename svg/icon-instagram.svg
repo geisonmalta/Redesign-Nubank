@@ -1,14 +1,5 @@
-<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="icon-instagram 1" clip-path="url(#clip0_4_21)">
-<g id="icon-instagram">
-<path id="Vector" d="M22 1H8C4.13401 1 1 4.13401 1 8V22C1 25.866 4.13401 29 8 29H22C25.866 29 29 25.866 29 22V8C29 4.13401 25.866 1 22 1Z" stroke="#555456" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_2" d="M20.6 14.1179C20.7728 15.2831 20.5738 16.473 20.0313 17.5186C19.4888 18.5641 18.6304 19.4119 17.5783 19.9415C16.5262 20.471 15.3338 20.6554 14.1709 20.4682C13.008 20.2811 11.9337 19.732 11.1008 18.8992C10.2679 18.0663 9.71883 16.992 9.5317 15.829C9.34457 14.6661 9.5289 13.4738 10.0585 12.4217C10.588 11.3695 11.4359 10.5112 12.4814 9.96867C13.5269 9.42617 14.7169 9.22716 15.882 9.39993C17.0705 9.57617 18.1708 10.13 19.0204 10.9796C19.87 11.8291 20.4238 12.9294 20.6 14.1179Z" stroke="#555456" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_3" d="M22.7 7.29883H22.7147" stroke="#555456" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_4_21">
-<rect width="30" height="30" fill="white"/>
-</clipPath>
-</defs>
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32 8H16C11.5817 8 8 11.5817 8 16V32C8 36.4183 11.5817 40 16 40H32C36.4183 40 40 36.4183 40 32V16C40 11.5817 36.4183 8 32 8Z" stroke="#EDEAEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.4 22.992C30.5974 24.3236 30.37 25.6835 29.75 26.8784C29.13 28.0733 28.149 29.0423 26.9466 29.6475C25.7441 30.2527 24.3815 30.4633 23.0524 30.2495C21.7234 30.0356 20.4956 29.4081 19.5437 28.4563C18.5918 27.5044 17.9643 26.2766 17.7505 24.9475C17.5366 23.6185 17.7473 22.2558 18.3525 21.0534C18.9577 19.851 19.9267 18.87 21.1215 18.25C22.3164 17.63 23.6764 17.4025 25.008 17.6C26.3662 17.8014 27.6237 18.4343 28.5947 19.4053C29.5656 20.3762 30.1986 21.6337 30.4 22.992Z" stroke="#EDEAEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.8 15.1987H32.8169" stroke="#EDEAEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
