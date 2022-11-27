@@ -1180,8 +1180,8 @@ header {
   background-color: transparent;
   z-index: -1;
   box-shadow: 0px 4px 80px rgba(130, 38, 158, 0.07), 0px 1.20588px 24.1177px rgba(130, 38, 158, 0.0456112), 0px 0.500862px 10.0172px rgba(130, 38, 158, 0.035), 0px 0.181152px 3.62304px rgba(130, 38, 158, 0.0243888);
-  -webkit-animation: flip-card 12s linear infinite alternate, change-bg-card 12s linear infinite alternate;
-          animation: flip-card 12s linear infinite alternate, change-bg-card 12s linear infinite alternate;
+  -webkit-animation: flip-card 12s linear 10s infinite alternate, change-bg-card 12s linear infinite alternate;
+          animation: flip-card 12s linear 10s infinite alternate, change-bg-card 12s linear infinite alternate;
 }
 
 @-webkit-keyframes flip-card {
@@ -1241,6 +1241,12 @@ header {
   -webkit-animation: icons-home 7s ease 0.5s infinite alternate;
           animation: icons-home 7s ease 0.5s infinite alternate;
 }
+@media screen and (max-width: 960px) {
+  .icon-card-hero {
+    -webkit-animation: none;
+            animation: none;
+  }
+}
 
 .icon-contactless-hero {
   position: absolute;
@@ -1256,6 +1262,12 @@ header {
     left: 100px;
   }
 }
+@media screen and (max-width: 960px) {
+  .icon-contactless-hero {
+    -webkit-animation: none;
+            animation: none;
+  }
+}
 
 .icon-mobile-hero {
   position: absolute;
@@ -1269,6 +1281,12 @@ header {
   .icon-mobile-hero {
     top: 350px;
     left: -100px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .icon-mobile-hero {
+    -webkit-animation: none;
+            animation: none;
   }
 }
 

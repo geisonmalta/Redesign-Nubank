@@ -25,7 +25,7 @@ $height-card: 0.64 * $width-card;
     0px 0.500862px 10.0172px rgba(130, 38, 158, 0.035),
     0px 0.181152px 3.62304px rgba(130, 38, 158, 0.0243888);
 
-    animation: flip-card 12s linear infinite alternate,
+    animation: flip-card 12s linear 10s infinite alternate,
     change-bg-card 12s linear infinite alternate;
 }
 
@@ -63,6 +63,10 @@ $height-card: 0.64 * $width-card;
     z-index: 200;
 
     animation: icons-home 7s ease 0.5s infinite alternate;
+
+    @include responsive (s){
+        animation: none;
+    }
     
   
 }
@@ -80,6 +84,10 @@ $height-card: 0.64 * $width-card;
         top: 320px;
         left: 100px;
     }
+
+    @include responsive (s){
+        animation: none;
+    }
 }
 
 .icon-mobile-hero{
@@ -94,6 +102,9 @@ $height-card: 0.64 * $width-card;
     @include responsive(s){
         top:350px;
         left: -100px;
+    }
+    @include responsive (s){
+        animation: none;
     }
 }
 
